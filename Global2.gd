@@ -58,7 +58,7 @@ func _process(time):
 func update_progress():
 	var root = get_tree().get_root()
 	var progress = float(loader.get_stage()) / loader.get_stage_count()
-	print(progress)
+#	print(progress)
 	# Update your progress bar?
 	root.get_node("Pantalla_de_carga/progress").value = progress
 #	get_node("progress").set_progress(progress)

@@ -21,7 +21,6 @@ config/icon="res://icon.png"
 
 [autoload]
 
-Global="res://Global.gd"
 Global2="*res://Global2.gd"
 
 [rendering]

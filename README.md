@@ -1,0 +1,1 @@
+# ejemplo-barra-de-carga
